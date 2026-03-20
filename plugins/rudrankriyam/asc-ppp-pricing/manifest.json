@@ -1,0 +1,15 @@
+{
+  "id": "asc-ppp-pricing@rudrankriyam",
+  "kind": "skill",
+  "name": "ASC PPP Pricing",
+  "description": "Set territory-specific pricing for subscriptions and in-app purchases using price import and price schedule asc commands.",
+  "author": "rudrankriyam",
+  "tags": ["app-store", "ios", "pricing", "subscriptions", "iap"],
+  "iconSF": "chart.bar",
+  "featured": false,
+  "version": "1.0.0",
+  "homepageURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitBranch": "main",
+  "gitPath": "asc-ppp-pricing"
+}

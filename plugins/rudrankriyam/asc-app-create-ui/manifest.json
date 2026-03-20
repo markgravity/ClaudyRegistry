@@ -1,0 +1,15 @@
+{
+  "id": "asc-app-create-ui@rudrankriyam",
+  "kind": "skill",
+  "name": "ASC App Create UI",
+  "description": "Create a new App Store Connect app record via browser automation when there is no public API for app creation.",
+  "author": "rudrankriyam",
+  "tags": ["app-store", "ios", "automation", "app-creation"],
+  "iconSF": "plus.square",
+  "featured": false,
+  "version": "1.0.0",
+  "homepageURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitBranch": "main",
+  "gitPath": "asc-app-create-ui"
+}

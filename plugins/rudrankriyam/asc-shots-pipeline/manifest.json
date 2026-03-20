@@ -1,0 +1,15 @@
+{
+  "id": "asc-shots-pipeline@rudrankriyam",
+  "kind": "skill",
+  "name": "ASC Screenshots Pipeline",
+  "description": "Orchestrate iOS screenshot automation with xcodebuild/simctl for build-run, UI actions, framing, and screenshot upload.",
+  "author": "rudrankriyam",
+  "tags": ["app-store", "ios", "screenshots", "automation", "xcode"],
+  "iconSF": "doc",
+  "featured": false,
+  "version": "1.0.0",
+  "homepageURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitBranch": "main",
+  "gitPath": "asc-shots-pipeline"
+}
