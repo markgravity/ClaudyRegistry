@@ -1,0 +1,15 @@
+{
+  "id": "asc-xcode-build@rudrankriyam",
+  "kind": "skill",
+  "name": "ASC Xcode Build",
+  "description": "Build, archive, and export iOS/macOS apps with xcodebuild before uploading to App Store Connect. Use when creating an IPA or PKG for upload.",
+  "author": "rudrankriyam",
+  "tags": ["app-store", "ios", "xcode", "build", "ci-cd"],
+  "iconSF": "chevron.left.forwardslash.chevron.right",
+  "featured": false,
+  "version": "1.0.0",
+  "homepageURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitBranch": "main",
+  "gitPath": "asc-xcode-build"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "asc-localize-metadata@rudrankriyam",
+  "kind": "skill",
+  "name": "ASC Localize Metadata",
+  "description": "Automatically translate and sync App Store metadata (description, keywords, what's new, subtitle) to multiple languages using LLM translation.",
+  "author": "rudrankriyam",
+  "tags": ["app-store", "ios", "localization", "metadata"],
+  "iconSF": "doc",
+  "featured": false,
+  "version": "1.0.0",
+  "homepageURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitBranch": "main",
+  "gitPath": "asc-localize-metadata"
+}

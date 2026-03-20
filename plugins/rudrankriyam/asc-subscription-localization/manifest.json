@@ -1,0 +1,15 @@
+{
+  "id": "asc-subscription-localization@rudrankriyam",
+  "kind": "skill",
+  "name": "ASC Subscription Localization",
+  "description": "Bulk-localize subscription and in-app purchase display names across all App Store locales using asc.",
+  "author": "rudrankriyam",
+  "tags": ["app-store", "ios", "subscriptions", "localization", "iap"],
+  "iconSF": "doc",
+  "featured": false,
+  "version": "1.0.0",
+  "homepageURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitBranch": "main",
+  "gitPath": "asc-subscription-localization"
+}

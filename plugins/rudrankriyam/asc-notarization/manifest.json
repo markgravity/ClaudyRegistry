@@ -1,0 +1,15 @@
+{
+  "id": "asc-notarization@rudrankriyam",
+  "kind": "skill",
+  "name": "ASC Notarization",
+  "description": "Archive, export, and notarize macOS apps using xcodebuild and asc for distribution outside the App Store with Developer ID signing.",
+  "author": "rudrankriyam",
+  "tags": ["app-store", "macos", "notarization", "signing", "distribution"],
+  "iconSF": "lock.shield",
+  "featured": false,
+  "version": "1.0.0",
+  "homepageURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitURL": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+  "gitBranch": "main",
+  "gitPath": "asc-notarization"
+}
