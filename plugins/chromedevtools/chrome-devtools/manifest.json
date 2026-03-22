@@ -11,7 +11,5 @@
   "homepageURL": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
   "mcpTransport": "stdio",
   "mcpInstallCommand": "npx",
-  "mcpInstallArgs": ["-y", "chrome-devtools-mcp@latest"],
-  "gitURL": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-  "gitBranch": "main"
+  "mcpInstallArgs": ["-y", "chrome-devtools-mcp@latest"]
 }
