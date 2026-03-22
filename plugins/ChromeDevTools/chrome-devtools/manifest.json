@@ -1,9 +1,9 @@
 {
-  "id": "chrome-devtools@markgravity",
+  "id": "chrome-devtools@chromedevtools",
   "kind": "mcp",
   "name": "Chrome DevTools",
   "description": "Control and inspect a live Chrome browser with automation, debugging, performance analysis, and Lighthouse audits.",
-  "author": "markgravity",
+  "author": "chromedevtools",
   "tags": ["browser", "debugging", "automation", "performance", "chrome", "web"],
   "iconSF": "safari",
   "featured": false,
