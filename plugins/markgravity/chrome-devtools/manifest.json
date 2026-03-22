@@ -1,0 +1,17 @@
+{
+  "id": "chrome-devtools@markgravity",
+  "kind": "mcp",
+  "name": "Chrome DevTools",
+  "description": "Control and inspect a live Chrome browser with automation, debugging, performance analysis, and Lighthouse audits.",
+  "author": "markgravity",
+  "tags": ["browser", "debugging", "automation", "performance", "chrome", "web"],
+  "iconSF": "safari",
+  "featured": false,
+  "version": "1.0.0",
+  "homepageURL": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "mcpTransport": "stdio",
+  "mcpInstallCommand": "npx",
+  "mcpInstallArgs": ["-y", "chrome-devtools-mcp@latest"],
+  "gitURL": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+  "gitBranch": "main"
+}
