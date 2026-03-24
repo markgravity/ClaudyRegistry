@@ -1,0 +1,14 @@
+{
+  "id": "figma@figma",
+  "kind": "mcp",
+  "name": "Figma MCP Server",
+  "description": "Access Figma design files in AI workflows — extract design context, generate code from frames, and work with design system components.",
+  "author": "figma",
+  "tags": ["design", "figma", "code-generation", "ui", "components"],
+  "iconSF": "paintbrush",
+  "featured": false,
+  "version": "1.0.0",
+  "homepageURL": "https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/",
+  "mcpTransport": "http",
+  "mcpUrl": "https://mcp.figma.com/mcp"
+}
